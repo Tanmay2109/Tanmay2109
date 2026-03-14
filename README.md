@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Tanmay Patil, a third-year B.Tech student at YCCE Nagpur, majoring in Computer Science and Engineering (IoT) with a minor in Instrumentation. I am passionate about technology and interested in areas such as IoT, software development, and data analysis. I enjoy learning new technologies and applying my skills to develop innovative solutions for real-world challenges.
+I am Tanmay Patil, a third-year B.Tech student at YCCE Nagpur, majoring in Computer Science and Engineering (IoT) with a minor in Instrumentation. I am passionate about technology and interested in areas such as IoT and data analysis. I enjoy learning new technologies and applying my skills to develop innovative solutions for real-world challenges.
 
 
 ## 🌐 Socials:
@@ -13,7 +13,7 @@ I am Tanmay Patil, a third-year B.Tech student at YCCE Nagpur, majoring in Compu
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tanmay2109&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=tanmay2109&icon=0&color=0)](https://visitcount.itsvg.in)
